@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1746770535977,
+    "description" : "",
+    "identifier" : "kafkacdc",
+    "lastModifiedTimestamp" : 1746770535977,
+    "name" : "kafkacdc",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
